@@ -42,13 +42,14 @@ Users should be able to:
 
 Below you can see the design for different devices.
 
-![fylo-2](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/c7f8ee3b-b6a3-4bdd-ae8c-b1a1f7b36c93)
+![image](https://github.com/Sab-Mos/ExploreEra-react/assets/131381168/7e448700-b2fb-49c0-b5dc-9c99696ad106)
 
-![fylo-3](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/87bcfe04-8307-4751-b727-02a4d2301d3e)
+![image](https://github.com/Sab-Mos/ExploreEra-react/assets/131381168/f83f8642-a91a-479a-9cb4-3e57b09ee001)
 
-![fylo tablet](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/29acfed3-27db-47de-902a-e95d29becef7)
 
-![fylo mobile](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/a2943e65-ad07-4b06-a38e-8aa486610430)
+![image](https://github.com/Sab-Mos/ExploreEra-react/assets/131381168/9fb1a063-9f8e-4581-bdba-b49f88f55cd1)
+
+![image](https://github.com/Sab-Mos/ExploreEra-react/assets/131381168/d3af1c47-32ed-4ee8-913b-bd38ef33c574)
 
 ### Technologies Used
 
