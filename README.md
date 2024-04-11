@@ -5,7 +5,7 @@
 This is a React project called ExploreEra, a custom tourism agency website built to provide users with an immersive experience in exploring various destinations. It utilizes modern web technologies such as React Vite for project scaffolding, React Router for navigation, and Tailwind CSS for styling, ensuring a smooth and visually appealing user interface.
 
 ### Demo
-[Live Demo](https://65469fedbf24fd4520595135--friendly-haupia-35c0c9.netlify.app/)
+[Live Demo](https://papaya-licorice-b82ff0.netlify.app/) 
 
 ## Table of contents
 
