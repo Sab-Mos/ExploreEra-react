@@ -1,0 +1,51 @@
+@tailwind base;
+
+@layer base {
+  /* Apply margin and padding reset to all elements */
+  *,
+  *::before,
+  *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
+
+.showcase {
+  background-image: url("images/image1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.navLink {
+  @apply block text-[28px] text-white font-[roboto] font-normal;
+}
+
+.headerNav {
+  @apply fixed top-0 left-0 w-full  bg-transparent z-50;
+}
+
+.headerNav.scrolled {
+  background-color: #eae9e9;
+  transition: 0.5s ease;
+}
+.logo {
+  @apply flex items-center space-x-3 rtl:space-x-reverse lg:text-[48px] md:text-3xl text-2xl font-[kalnia]  text-white;
+}
+
+.logo.scrolled {
+  color: #424244;
+}
+
+.navLink.scrolled {
+  color: #424244;
+}
+
+.body {
+  @apply bg-[#f6f6f6];
+}
